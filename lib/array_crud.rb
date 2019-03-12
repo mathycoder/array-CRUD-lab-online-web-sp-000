@@ -35,3 +35,7 @@ end
 def retrieve_last_element_from_array(array)
   
 end
+
+
+names = create_an_array
+puts remove_element_from_end_of_array(names)
